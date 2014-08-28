@@ -129,6 +129,7 @@ class Statusbar:
                     emails = item_emails(imap)
                     line_list.append("%s: %r" % (label,emails))
 
+                line_list.append(item_pomodoro())
                 line_list.append(item_date())
 
                 line = normal(' | ').join(line_list)
