@@ -1,0 +1,13 @@
+mail:
+    me: firstname.lastname
+
+    imap:
+        mailoo:
+          host: mail.mailoo.org
+          user: firstname.lastname@mailoo.org
+          password: secret-password
+
+        zimbra:
+          host: zimbra.inria.fr
+          user: firstname.lastname@inria.fr
+          password: secret-password
