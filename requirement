@@ -1,11 +1,5 @@
-easyimap
-pip
-
-pyyaml
-pip, conda?
-
-dbus-python
-conda install -c https://conda.binstar.org/dfroger dbus-python
-
-lockfile
-pip
+pip (conda)
+easyimap (pip)
+pyyaml (conda)
+dbus-python (conda install -c https://conda.binstar.org/dfroger dbus-python)
+lockfile (pip)
